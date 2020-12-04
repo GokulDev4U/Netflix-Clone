@@ -1,6 +1,6 @@
 # Netflix-Clone
 
-# Ckeck-Out Working App
+# Check-Out Working App
 [Netflix-Clone](https://netflix-clone-9d3b7.web.app)
 
 # Features
